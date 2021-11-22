@@ -28,7 +28,10 @@ body {
 
 h1>span {
     color: #1ED297;
+
 }
+
+
 
 p {
     font-size: 21px;
@@ -40,6 +43,8 @@ p {
 p>span {
     font-weight: bold;
 }
+
+
 
 .main__form_btn {
     width: 472px;
@@ -54,20 +59,23 @@ p>span {
 }
 
 input {
-    padding-left: 24px;
     font-weight: 400;
     font-size: 14px;
+    padding: 21px;
 }
 
 .btn {
     background-color: #F44545;
-    padding: 14px 37px;
+    padding: 9px 31px;
     border-radius: 6px;
-    margin: 4px;
     color: #ffff;
-    font-size: 21px;
+    font-size: 23px;
+    position: absolute;
+    left: 348px;
+    bottom: 5px;
 }
 
 .google {
     padding-right: 30px;
+    width: 100%;
 }

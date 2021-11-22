@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.main__wrapper {
+    min-width: 1310px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.main__form {
+    width: 512px;
+}
+
+.main__form>h1 {
+    font-weight: 700;
+    line-height: 81px;
+    font-size: 40px;
+}
+
+h1>span {
+    color: #1ED297;
+}

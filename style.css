@@ -4,7 +4,9 @@ footer{
   justify-content: center;
   gap: 58px;
   width: 1310px;
-  height: 160px;
+  height: 54px;
+  padding-top: 54px;
+  padding-bottom: 55px;
 }
 
 

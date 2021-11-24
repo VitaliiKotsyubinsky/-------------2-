@@ -6,11 +6,11 @@ body {
 }
 
 .main__wrapper {
-    min-width: 1310px;
+    max-width: 1310px;
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    margin: 0 auto;
 
 }
 

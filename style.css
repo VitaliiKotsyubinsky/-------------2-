@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #FAFAFA;
+    width: 100%;
 
 }
 
@@ -85,5 +86,5 @@ input {
 }
 
 .main__img {
-    min-width: 739px;
+    max-width: 739px;
 }

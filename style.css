@@ -79,3 +79,7 @@ input {
     padding-right: 30px;
     width: 100%;
 }
+
+.main__img {
+    min-width: 739px;
+}

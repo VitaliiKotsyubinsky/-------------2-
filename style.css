@@ -88,3 +88,18 @@ input {
 .main__img {
     max-width: 739px;
 }
+
+@media (max-width: 600px) {
+    .main__wrapper {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .main__form, img {
+        max-width: 100%;
+    }
+
+
+
+}
